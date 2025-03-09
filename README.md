@@ -10,8 +10,8 @@ If we were to compare the credible interval with a ROPE (region of probability e
 1) Credible intervals are completely to the right of ROPE
 2) Credible intervals are completely to the left of ROPE
 3) Credible intervals completely overlap with the ROPE
-4) Credible intervals overlap with the ROPE byt have a large probbability to the right of ROPE
-5) 4) Credible intervals overlap with the ROPE byt have a large probbability to the left of ROPE
+4) Credible intervals overlap with the ROPE but have a large probbability to the right of ROPE
+5) Credible intervals overlap with the ROPE but have a large probbability to the left of ROPE
 
 Interpretation:
 - In the case of 1 and 2, we have strong evidence that the estimate of effect varies from ROPE with certainty.
